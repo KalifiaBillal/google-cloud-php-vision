@@ -62,9 +62,3 @@ foreach ($annotation->getFaceAnnotations() as $faceAnnotation) {
 
 This component is considered GA (generally available). As such, it will not introduce backwards-incompatible changes in
 any minor or patch releases. We will address issues and requests with the highest priority.
-
-### Next Steps
-
-1. Understand the [official documentation](https://cloud.google.com/vision/docs/).
-2. Take a look at [in-depth usage samples](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/vision/).
-
